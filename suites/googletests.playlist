@@ -1,0 +1,8 @@
+<Playlist Version="1.0">
+  <Add Test="SeleniumWithNUnit.GoogleAbsoluteXPathExample.Test_Google_WithXpath" />
+  <Add Test="SeleniumWithNUnit.GoogleCSSExample.Test_Google_WithCSS" />
+  <Add Test="SeleniumWithNUnit.GoogleGridTest.When_Grid_IsOpened_NumberOfApps_IsEqualTo31" />
+  <Add Test="SeleniumWithNUnit.GoogleSearch.When_I_Search_Then_I_Receive_Results" />
+  <Add Test="SeleniumWithNUnit.GoogleSearchExplicitWaitExample.When_I_Enter_String_And_Click_Search_Then_I_Receive_Results" />
+  <Add Test="SeleniumWithNUnit.GoogleSuggestions.When_I_Search_Then_I_Receive_Suggestions" />
+</Playlist>
